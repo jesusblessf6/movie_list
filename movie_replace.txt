@@ -1,36 +1,36 @@
 1#
 ===========
-I:\¡¾Movie¡¿/ÈÕº«/¡¾´ºÈ¥´ºÓÖÀ´¡¿/Spring.Summer.Fall.Winter.and Spring.2003.´ºÏÄÇï¶¬ÓÖÒ»´º.ÖÐº«Ë«Óï.HR-HDTV.AC3.1024X576.x264-YYeTs_º«¾ç¾«Áé.mkv   µÚÎåÅÌ½ð»ùµÂ
-I:\¡¾Movie¡¿/ÈÕº«/¡¾Ê±¼ä¡¿/[Ê±¼ä][Time][½ð»ùµÂ].2006.(ED2000.COM).mkv   µÚÎåÅÌ½ð»ùµÂ
-I:\¡¾Movie¡¿/ÃÀ¹ú/¡¾2001Ì«¿ÕÂþÓÎ¡¿/[2001Ì«¿ÕÂþÓÎ].2001.A.Space.Odyssey.1968.BluRay.720p.x264.AC3-CMCT.mkv ÒÆµ½5
-I:\¡¾Movie¡¿/ÃÀ¹ú/¡¾·¢Ìõ³È¡¿/[·¢Ìõ³È].A.Clockwork.Orange.1971.BluRay.720p.x264.AC3-CMCT.mkv ÒÆµ½5
-I:\¡¾Movie¡¿/ÃÀ¹ú/È«½ðÊôÍâ¿Ç/mhq-full.metal.jacket.1987.720p.x264.mkv ÒÆµ½5
+I:\ã€Movieã€‘/æ—¥éŸ©/ã€æ˜¥åŽ»æ˜¥åˆæ¥ã€‘/Spring.Summer.Fall.Winter.and Spring.2003.æ˜¥å¤ç§‹å†¬åˆä¸€æ˜¥.ä¸­éŸ©åŒè¯­.HR-HDTV.AC3.1024X576.x264-YYeTs_éŸ©å‰§ç²¾çµ.mkv   ç¬¬äº”ç›˜é‡‘åŸºå¾·
+I:\ã€Movieã€‘/æ—¥éŸ©/ã€æ—¶é—´ã€‘/[æ—¶é—´][Time][é‡‘åŸºå¾·].2006.(ED2000.COM).mkv   ç¬¬äº”ç›˜é‡‘åŸºå¾·
+I:\ã€Movieã€‘/ç¾Žå›½/ã€2001å¤ªç©ºæ¼«æ¸¸ã€‘/[2001å¤ªç©ºæ¼«æ¸¸].2001.A.Space.Odyssey.1968.BluRay.720p.x264.AC3-CMCT.mkv ç§»åˆ°5
+I:\ã€Movieã€‘/ç¾Žå›½/ã€å‘æ¡æ©™ã€‘/[å‘æ¡æ©™].A.Clockwork.Orange.1971.BluRay.720p.x264.AC3-CMCT.mkv ç§»åˆ°5
+I:\ã€Movieã€‘/ç¾Žå›½/å…¨é‡‘å±žå¤–å£³/mhq-full.metal.jacket.1987.720p.x264.mkv ç§»åˆ°5
 
 +++++++++++++++++++++
 
 2#
 ==========
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/ºÚ°ïÁú»¢¶· Ã×ÀÕµÄÊ®×ÖÂ·¿Ú/ºÚ°ïÁú»¢¶·.Millers.Crossing.1990.BD.MiniSD-TLF.mkv
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/Ä±É±ÂÌ½ÅÖº/Ä±É±ÂÌ½ÅÖº.The.Big.Lebowski.1998.BD.MiniSD-TLF.mkv
-I:\ÒÑÕûÀí/¡¾Å·ÖÞ¡¿/»ªÊÏ451¶È/[»ªÊÏ451¶È].Fahrenheit.451.1966.XviD.MP3.DVDRiP.By.Caramono.G-TeaM.SEDG.avi
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/¹þÂåÓëÄ½µÂ ¹þ°ÂµÂÓëÃ¯µÏ/[¹þ°ÂµÂÓëÃ¯µÏ].Harold.And.Maude.1971.Dvdrip.Divx-Mdx.avi
-I:\ÒÑÕûÀí/¡¾Å·ÖÞ¡¿/·ä³²µÄÓÄÁé/[·ä³²µÄÓÄÁé].The.Spirit.of.the.Beehive.1973.DVDivx5.05.VBR.spanish.by.RoberTron.avi
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/é»‘å¸®é¾™è™Žæ–— ç±³å‹’çš„åå­—è·¯å£/é»‘å¸®é¾™è™Žæ–—.Millers.Crossing.1990.BD.MiniSD-TLF.mkv
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/è°‹æ€ç»¿è„šè¶¾/è°‹æ€ç»¿è„šè¶¾.The.Big.Lebowski.1998.BD.MiniSD-TLF.mkv
+I:\å·²æ•´ç†/ã€æ¬§æ´²ã€‘/åŽæ°451åº¦/[åŽæ°451åº¦].Fahrenheit.451.1966.XviD.MP3.DVDRiP.By.Caramono.G-TeaM.SEDG.avi
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/å“ˆæ´›ä¸Žæ…•å¾· å“ˆå¥¥å¾·ä¸ŽèŒ‚è¿ª/[å“ˆå¥¥å¾·ä¸ŽèŒ‚è¿ª].Harold.And.Maude.1971.Dvdrip.Divx-Mdx.avi
+I:\å·²æ•´ç†/ã€æ¬§æ´²ã€‘/èœ‚å·¢çš„å¹½çµ/[èœ‚å·¢çš„å¹½çµ].The.Spirit.of.the.Beehive.1973.DVDivx5.05.VBR.spanish.by.RoberTron.avi
 
-ÒÆµ½µÚËÄÅÌµÄµ¼ÑÝ×¨¼­ÖÐ  I:\ÒÑÕûÀí/¡¾ÈÕº«¡¿/´óÆÐÈøÁë ¸Ô±¾Ï²°Ë 1966/´óÆÐÈøÁë.The.Sword.of.Doom.1966.D9.MiniSD-TLF.mkv
-ºÍµÚËÄÅÌµÄ¡¶Ç³·Ø¡·ºÏ²¢
-I:\ÒÑÕûÀí/¡¾Å·ÖÞ¡¿/Í¬ÎÝÈý·Ö¾ª/[Í¬ÎÝÈý·Ö¾ª].Shallow.Grave.1995.Bluray.480p.AC3.x264-CHD.mkv
+ç§»åˆ°ç¬¬å››ç›˜çš„å¯¼æ¼”ä¸“è¾‘ä¸­  I:\å·²æ•´ç†/ã€æ—¥éŸ©ã€‘/å¤§è©è¨å²­ å†ˆæœ¬å–œå…« 1966/å¤§è©è¨å²­.The.Sword.of.Doom.1966.D9.MiniSD-TLF.mkv
+å’Œç¬¬å››ç›˜çš„ã€Šæµ…åŸã€‹åˆå¹¶
+I:\å·²æ•´ç†/ã€æ¬§æ´²ã€‘/åŒå±‹ä¸‰åˆ†æƒŠ/[åŒå±‹ä¸‰åˆ†æƒŠ].Shallow.Grave.1995.Bluray.480p.AC3.x264-CHD.mkv
 
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/¼ªæ«/¼ªæ«.Î´·Ö¼¶°æ.Gia.Unrated.1998.BD.MiniSD-TLF.mkv  ÓëµÚÎåÅÌÖÐµÄºÏ²¢£¬±È½Ï°æ±¾
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/å‰å¨…/å‰å¨….æœªåˆ†çº§ç‰ˆ.Gia.Unrated.1998.BD.MiniSD-TLF.mkv  ä¸Žç¬¬äº”ç›˜ä¸­çš„åˆå¹¶ï¼Œæ¯”è¾ƒç‰ˆæœ¬
 
-I:\ÒÑÕûÀí/¡¾ÈÕº«¡¿/Ê¥éä/Pieta.2012.Ê¥éä.º«ÓïÖÐ×Ö.HR-HDTV.1024X576.x264-YYeTs_º«¾ç¾«Áé.mkv   µÚÎåÅÌÖÐµÄ½ð»ùµÂµ¼ÑÝÖÐÒ²ÓÐ
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/ÂÒÊÀ¶ùÅ® °ÍÀïÁÖµÇ/Barry.Lyndon.1975.720p.BluRay.x264-SiNNERS.mkv ÒÆµ½5
+I:\å·²æ•´ç†/ã€æ—¥éŸ©ã€‘/åœ£æ®‡/Pieta.2012.åœ£æ®‡.éŸ©è¯­ä¸­å­—.HR-HDTV.1024X576.x264-YYeTs_éŸ©å‰§ç²¾çµ.mkv   ç¬¬äº”ç›˜ä¸­çš„é‡‘åŸºå¾·å¯¼æ¼”ä¸­ä¹Ÿæœ‰
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/ä¹±ä¸–å„¿å¥³ å·´é‡Œæž—ç™»/Barry.Lyndon.1975.720p.BluRay.x264-SiNNERS.mkv ç§»åˆ°5
 
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/´ó¿ªÑÛ½ä/´ó¿ªÑÛ½ä.Eyes.Wide.Shut.1999.BD.MiniSD-TLF.mkv
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/å¤§å¼€çœ¼æˆ’/å¤§å¼€çœ¼æˆ’.Eyes.Wide.Shut.1999.BD.MiniSD-TLF.mkv
 
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/¼«ËÙ·çÁ÷/¼«ËÙ·çÁ÷.Rush.2013.BD.MiniSD-TLF.mkv
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/º£Àê/º£Àê.The.Beaver.2011.BD.MiniSD-TLF.mkv
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/æžé€Ÿé£Žæµ/æžé€Ÿé£Žæµ.Rush.2013.BD.MiniSD-TLF.mkv
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/æµ·ç‹¸/æµ·ç‹¸.The.Beaver.2011.BD.MiniSD-TLF.mkv
 
-I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/ÌìÊ¹ÓëÄ§¹í/[ÌìÊ¹ÓëÄ§¹í].Angels.and.Demons.2009.R5.LiNE.READ.NFO.DVDRip.XviD-CaRRe.CD2.avi
+I:\å·²æ•´ç†/ã€ç¾Žå›½ã€‘/å¤©ä½¿ä¸Žé­”é¬¼/[å¤©ä½¿ä¸Žé­”é¬¼].Angels.and.Demons.2009.R5.LiNE.READ.NFO.DVDRip.XviD-CaRRe.CD2.avi
 
 ++++++++++++++++++++++
 
@@ -38,18 +38,25 @@ I:\ÒÑÕûÀí/¡¾ÃÀ¹ú¡¿/ÌìÊ¹ÓëÄ§¹í/[ÌìÊ¹ÓëÄ§¹í].Angels.and.Demons.2009.R5.LiNE.READ.N
 
 3#
 =============
-P:\µçÓ°/¡¾ÃÀ¹ú¡¿/ÔÄºó¼´·Ù/[ÔÄºó¼´·Ù].Burn.After.Reading.2008.BDRip.X264-TLF.mkv
+P:\ç”µå½±/ã€ç¾Žå›½ã€‘/é˜…åŽå³ç„š/[é˜…åŽå³ç„š].Burn.After.Reading.2008.BDRip.X264-TLF.mkv
 
-P:\µçÓ°/¡¾ÃÀ¹ú¡¿/È±Ï¯µÄÈË/[È±Ï¯µÄÈË].The.Man.Who.Wasn't.There.2001.BluRay.720p.AC3.x264-CHD.(ED2000.COM).mkv
+P:\ç”µå½±/ã€ç¾Žå›½ã€‘/ç¼ºå¸­çš„äºº/[ç¼ºå¸­çš„äºº].The.Man.Who.Wasn't.There.2001.BluRay.720p.AC3.x264-CHD.(ED2000.COM).mkv
 
-P:\µçÓ°/¡¾ÃÀ¹ú¡¿/·è¿ñ¼ÙÆÚ/[·è¿ñ¼ÙÆÚ].Badlands.1973.DVDRip.DivX3LM-SMB.avi
+P:\ç”µå½±/ã€ç¾Žå›½ã€‘/ç–¯ç‹‚å‡æœŸ/[ç–¯ç‹‚å‡æœŸ].Badlands.1973.DVDRip.DivX3LM-SMB.avi
 
-P:\µçÓ°/¡¾ÃÀ¹ú¡¿/É±ÊÖ/The.Killing.1956.BluRay.CC.720p.AC3.x264-CHD.mkv ÒÆµ½5 µ¼ÑÝ
+P:\ç”µå½±/ã€ç¾Žå›½ã€‘/æ€æ‰‹/The.Killing.1956.BluRay.CC.720p.AC3.x264-CHD.mkv ç§»åˆ°5 å¯¼æ¼”
 
-P:\µçÓ°/¡¾ÃÀ¹ú¡¿/¹âÈÙÖ®Â·/Paths.of.Glory.1957.BluRay.720p.AC3.x264-CHD.mkv ÒÆµ½5 µ¼ÑÝ
+P:\ç”µå½±/ã€ç¾Žå›½ã€‘/å…‰è£ä¹‹è·¯/Paths.of.Glory.1957.BluRay.720p.AC3.x264-CHD.mkv ç§»åˆ°5 å¯¼æ¼”
 
-P:\µçÓ°/¡¾ÃÀ¹ú¡¿/ÉÁÁé/[ÉÁÁé(µ¼ÑÝ¼ô¼­°æ)].The.Shining.Unrated.US.Cut.1980.Bluray.720p.x264.AC3-CMCT.mkv ÒÆµ½5
+P:\ç”µå½±/ã€ç¾Žå›½ã€‘/é—ªçµ/[é—ªçµ(å¯¼æ¼”å‰ªè¾‘ç‰ˆ)].The.Shining.Unrated.US.Cut.1980.Bluray.720p.x264.AC3-CMCT.mkv ç§»åˆ°5
 
-P:\µçÓ°/¡¾ÃÀ¹ú¡¿/ºÃºÃÏÈÉú/[ºÃºÃÏÈÉú].Yes.Man.2008.x264.AC3-WAF.mkv
+P:\ç”µå½±/ã€ç¾Žå›½ã€‘/å¥½å¥½å…ˆç”Ÿ/[å¥½å¥½å…ˆç”Ÿ].Yes.Man.2008.x264.AC3-WAF.mkv
+
+P:\ç”µå½±/ã€æ¬§æ´²ã€‘/é»‘å¤©ä½¿/[tinto.brass(ä¸åº¦.å·´æ‹‰æ–¯)][é»‘å¤©ä½¿(æœªåˆ†çº§åŠ é•¿ç‰ˆ)].senso.45.or.black.angel.2002.dvdrip.avi
 
 +++++++++++++++++++++++
+
+
+#4
+=============
+G:\Movie/å¯¼æ¼”/å¡ç‰¹ç³Â·å¸ƒé›·äºš Catherine Breillat æ„å¤§åˆ© æƒ…è‰²/1976-è§£æ”¾çš„æ½˜å¤šæ‹‰-[Une vraie jeune fille]/Catherine Breillat-1976-[Une vraie jeune fille].avi   ç”¨ç¬¬å…­ç›˜çš„BMovieä¸­çš„ç‰ˆæœ¬æ›¿æ¢
