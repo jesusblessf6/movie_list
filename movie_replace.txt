@@ -5,6 +5,9 @@ I:\【Movie】/日韩/【时间】/[时间][Time][金基德].2006.(ED2000.COM).m
 I:\【Movie】/美国/【2001太空漫游】/[2001太空漫游].2001.A.Space.Odyssey.1968.BluRay.720p.x264.AC3-CMCT.mkv 移到5
 I:\【Movie】/美国/【发条橙】/[发条橙].A.Clockwork.Orange.1971.BluRay.720p.x264.AC3-CMCT.mkv 移到5
 I:\【Movie】/美国/全金属外壳/mhq-full.metal.jacket.1987.720p.x264.mkv 移到5
+I:\【Movie】/日韩/【夏夏夏】/[夏夏夏].Hahaha.2010.DVD-RMVB-YYeTs_韩剧精灵原创中韩双语.rmvb
+I:\【Movie】/港台/【风柜来的人】/风柜来的人.The.Boys.From.Fengkuei.1983.D9.MiniSD-TLF.mkv  移到6导演 侯孝贤
+
 
 +++++++++++++++++++++
 
@@ -32,6 +35,11 @@ I:\已整理/【美国】/海狸/海狸.The.Beaver.2011.BD.MiniSD-TLF.mkv
 
 I:\已整理/【美国】/天使与魔鬼/[天使与魔鬼].Angels.and.Demons.2009.R5.LiNE.READ.NFO.DVDRip.XviD-CaRRe.CD2.avi
 
+I:\已整理/【港台】/童年往事/童年往事.The.Time.to.Live.and.the.Time.to.Die.1985.DVD9.MiniSD-TLF.mkv #6导演 侯孝贤 合并
+
+I:\已整理/【日韩】/诗情/[诗情].Poetry.2010.BD.MiniSD-TLF.mkv 和#6 导演 李沧东 版本比较
+
+
 ++++++++++++++++++++++
 
 
@@ -54,9 +62,22 @@ P:\电影/【美国】/好好先生/[好好先生].Yes.Man.2008.x264.AC3-WAF.mkv
 
 P:\电影/【欧洲】/黑天使/[tinto.brass(丁度.巴拉斯)][黑天使(未分级加长版)].senso.45.or.black.angel.2002.dvdrip.avi
 
+P:\电影/【日韩】/在异国/In Another Country.2012.在异国.韩语中字.HR-HDTV.1024X576.x264-YYeTs_韩剧精灵-002.mkv
+
+P:\电影/【港台】/恋恋风尘/恋恋风尘.Dust.In.The.Wind.1987.BD.MiniSD-TLF.mkv   #6 导演 侯孝贤 合并
+
+P:\电影/【港台】/戏梦人生/戏梦人生.The.Puppetmaster.1993.D9.MiniSD-TLF.mkv   #6 导演 侯孝贤 取代
+
 +++++++++++++++++++++++
 
 
 #4
 =============
 G:\Movie/导演/卡特琳·布雷亚 Catherine Breillat 意大利 情色/1976-解放的潘多拉-[Une vraie jeune fille]/Catherine Breillat-1976-[Une vraie jeune fille].avi   用第六盘的BMovie中的版本替换
+
+G:\Movie/韩国/密阳/【经典电影吧收集】CC-576.密阳.Secret.Sunshine.CC.2007.BD.MiniSD-TLF.mkv 和#6 导演 李沧东 版本比较
+
+
+#5
+======
+E:\Movie/韩国/惠媛/Nobodys.Daughter.Haewon.2013.不是任何人女儿的海媛.韩语中字.HR-HDTV.1024X576.x264-YYeTs_韩剧精灵.mkv
